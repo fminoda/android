@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">Rotina Pedagogica</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="hello">Hello World, RotinaPedagogicaPagerActivity!</string>
+    <string name="app_name">Rotina Pedagogica Raquel</string>
+    <string name="app_message">&quot;Rotina Pedagogica &quot;</string>
+    <string name="app_ano">Quinto ano</string>
+    <string name="app_turno">Matutino</string>
+    
+    
 </resources>
