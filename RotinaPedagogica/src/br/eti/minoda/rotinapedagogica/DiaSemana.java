@@ -5,11 +5,11 @@ public class DiaSemana {
 	private enum DiaSemanaEnum {
 		DOMINGO (1, "Domingo"),
 		SEGUNDA (2, "Segunda-feira"),
-		TERCA   (3, "Terca-feira"),
+		TERCA   (3, "Terça-feira"),
 		QUARTA  (4, "Quarta-feira"),
 		QUINTA  (5, "Quinta-feira"),
 		SEXTA   (6, "Sexta-feira"),
-		SABADO  (7, "Sabado");
+		SABADO  (7, "Sábado");
 
 		private final int num;
 		private final String descricao;           
