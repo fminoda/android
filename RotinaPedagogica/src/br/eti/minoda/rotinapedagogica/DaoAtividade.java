@@ -12,13 +12,13 @@ public class DaoAtividade {
 	     "11:45 as 12:30"};
 
 		final String [] [] materia = 
-			{{"Dormir", "Dormir", "Dormir", "Tomar cafe", "Brincar", "Brincar", "Almocar"}, 
-			 {"Artes", "Espanhol", "Matematica I", "Intervalo", "Matematica I", "Ingles", "Ingles"}, 
-			 {"Educacao Fisica", "Historia", "Historia", "Intervalo", "Ciencias", "Ciencias", "Matematica I"}, 
-			 {"Espanhol", "Ciencias", "Literatura", "Intervalo", "Literatura", "Ingles","Ingles"}, 
-			 {"Matematica I", "Matematica I", "Gramatica", "Intervalo", "Historia", "Geografia", "Educacao Fisica"}, 
-			 {"Filosofia", "Musica", "Gramatica", "Intervalo", "Gramatica", "Geografia", "Geografia"}, 
-			 {"Dormir", "Dormir", "Dormir", "Tomar cafe", "Brincar", "Brincar", "Almocar"}};
+			{{"Dormir", "Dormir", "Dormir", "Tomar café", "Brincar", "Brincar", "Almoçar"}, 
+			 {"Artes", "Espanhol", "Matemática I", "Intervalo", "Matemática I", "Inglês", "Inglês"}, 
+			 {"Educação Física", "História", "História", "Intervalo", "Ciências", "Ciências", "Matemática I"}, 
+			 {"Espanhol", "Ciências", "Literatura", "Intervalo", "Literatura", "Inglês","Inglês"}, 
+			 {"Matemática I", "Matemática I", "Gramática", "Intervalo", "História", "Geografia", "Educação Física"}, 
+			 {"Filosofia", "Música", "Gramática", "Intervalo", "Gramática", "Geografia", "Geografia"}, 
+			 {"Dormir", "Dormir", "Dormir", "Tomar café", "Brincar", "Brincar", "Almoçar"}};
 		
 		
 	public StringBuffer getRotinaDiaria(int diaDaSemana) {
