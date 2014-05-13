@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Hello World, RotinaPedagogicaPagerActivity!</string>
-    <string name="app_name">Rotina Pedagogica Raquel</string>
-    <string name="app_message">&quot;Rotina Pedagogica &quot;</string>
-    <string name="app_ano">Quinto ano</string>
+    <string name="app_name">Rotina Pedagógica Raquel</string>
+    <string name="app_message">&quot;Rotina Pedagógica &quot;</string>
+    <string name="app_ano">Sexto ano</string>
     <string name="app_turno">Matutino</string>
     
     
